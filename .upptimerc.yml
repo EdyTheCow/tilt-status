@@ -18,7 +18,7 @@ status-website:
   logoUrl: https://tilt.work/wp-content/uploads/2020/07/cropped-tiltwork_logo_sort-square-900-2-120x120.png
   favicon: https://tilt.work/favicon.ico
   name: Status
-  introTitle: "test"
+  introTitle: ""
   introMessage: 
   navbar:
     #- title: Status
