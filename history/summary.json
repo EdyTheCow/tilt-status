@@ -4,19 +4,19 @@
     "url": "https://tilt.work",
     "icon": "https://icons.duckduckgo.com/ip3/tilt.work.ico",
     "slug": "tilt-work",
-    "status": "down",
-    "uptime": "99.55%",
-    "uptimeDay": "92.46%",
-    "uptimeWeek": "98.92%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.55%",
-    "time": 2562,
-    "timeDay": 2629,
-    "timeWeek": 2578,
-    "timeMonth": 2562,
-    "timeYear": 2562,
+    "status": "up",
+    "uptime": "99.38%",
+    "uptimeDay": "89.53%",
+    "uptimeWeek": "98.50%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.38%",
+    "time": 2542,
+    "timeDay": 2494,
+    "timeWeek": 2529,
+    "timeMonth": 2542,
+    "timeYear": 2542,
     "dailyMinutesDown": {
-      "2023-02-28": 108
+      "2023-02-28": 150
     }
   },
   {
