@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tilt.work.ico",
     "slug": "tilt-work",
     "status": "up",
-    "uptime": "99.33%",
+    "uptime": "99.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.08%",
-    "uptimeMonth": "99.33%",
-    "uptimeYear": "99.33%",
-    "time": 3907,
-    "timeDay": 2493,
-    "timeWeek": 5774,
-    "timeMonth": 3907,
-    "timeYear": 3907,
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.36%",
+    "time": 3850,
+    "timeDay": 2076,
+    "timeWeek": 5705,
+    "timeMonth": 3850,
+    "timeYear": 3850,
     "dailyMinutesDown": {
       "2023-02-28": 193
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 108,
-    "timeDay": 146,
+    "time": 107,
+    "timeDay": 79,
     "timeWeek": 116,
-    "timeMonth": 108,
-    "timeYear": 108,
+    "timeMonth": 107,
+    "timeYear": 107,
     "dailyMinutesDown": {}
   }
 ]
